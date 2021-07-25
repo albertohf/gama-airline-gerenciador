@@ -3,7 +3,7 @@ import './home.css'
 import Main from '../template/main'
 
 export default props =>
-    <Main icon="home" title="Início" subtitle="Sistema Administrativo de cadastro pacotes e clientes">
+    <Main icon="Inicio" title="Início" subtitle="Sistema Administrativo de cadastro pacotes e clientes">
 
         <div className="display-4">Bem vindo</div>
         <hr />
